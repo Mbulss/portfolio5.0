@@ -20,13 +20,13 @@ html {
 .navbar-form .btn {
     background-color: rgb(61, 61, 238);
 }
-/* Mengubah warna teks pada navbar menjadi putih */
+
 .navbar .navbar-nav .nav-link {
-    color: white !important; /* Warna teks putih */
+    color: white !important; 
   }
-/* Mengubah warna teks pada navbar brand menjadi putih */
+
 .navbar .navbar-brand {
-    color: white !important; /* Warna teks putih */
+    color: white !important; 
   }
   
   
